@@ -1,3 +1,10 @@
+##################################
+#                                #
+	    Credit By
+             RssFra97    
+#                                #
+##################################
+
 $Pkg =  Get-AppxPackage -Name "MSTeams" -ErrorAction SilentlyContinue
 $RegKey = "HKCU:\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\$($Pkg.PackageFamilyName)\TeamsTfwStartupTask"
 
