@@ -1,2 +1,2 @@
 # Microsoft365
-Script per Microsoft 365
+Script for Microsoft 365
